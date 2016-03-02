@@ -1,0 +1,72 @@
+ANTON JOSE AGANA
+anton23@gmail.com
+(979) 773 - 3007
+PDF Version: http://goo.gl/G9X0d
+
+
+EXPERIENCE
+Lucasfilm Animation, Nicasio CA
+Assistant Technical Director, Jan 2012 – May 2013
+*Identified workflow/processes that could be automated to save time and wrote Python & JavaScript code for them 
+*Applied lighting & compositing techniques to 3D assets to produce aesthetically pleasing images for commercial use
+*Qualified technical condition of 3D assets, and ensured their subsequent delivery to support clients’ requests.
+*Promoted to an Assistant Technical Director after a successful internship performance
+
+
+Electronic Arts (EA Sports), Orlando FL
+Technical Artist Intern, Sept 2011 – Dec 2011
+*Debugged and integrated shader/fx files for DirectX, Xbox 360, and PS3 platforms using OpenGL.
+
+Lucasfilm Ltd., San Francisco CA
+Digital Training Intern, May 2010 – Aug 2010
+*Filmed, edited content, and composited interview & training videos for employees looking to enhance their skill set
+*Compiled and presented QuickTime video clips for meetings with supervisors
+*Internship led to full-time hire.
+
+
+Texas A&M University, College Station TX
+Graduate Assistant, Sept 2009 – Jan 2011
+*Conducted research on human-computer interaction for a 3D navigation National Science Foundation (NSF) research.
+*Performed Teaching Assistant (T.A.) duties for a C/C++ programming class with about 30 students.
+
+Bazaarvoice, Inc., Austin, TX
+Implementation Engineer, Feb 2009 – Aug 2009
+*Managed technical deployment of Bazaarvoice web solutions for new clients via phone and email communication.
+*Configured front-end web solutions using XML, HTML/XHTML, CSS, JavaScript, and SQL.
+*Maintained client-technical relationships during project implementation by becoming client’s point-of-contact.
+
+Quorum Business Solutions, Houston, TX
+Consultant, July 2007 – Aug 2008
+*Utilized SQL/Oracle and C++ on a daily basis for Quorum’s software products.
+*Interacted with clients to provide support concerning Quorum’s solutions.
+
+
+EDUCATION
+The University of Texas, Austin	GPA: 3.10 / 4.00
+Bachelor of Science in Electrical Engineering		Dec 2006
+*Tracor/Frank W. McBee, Jr. Scholarship recipient
+
+Texas A&M University, College Station	GPA: 3.57 / 4.00
+Master of Science in Visualization Sciences, Dec 2013
+*Sony Pictures Imageworks IPAX Scholar
+*Graduate Diversity Fellowship recipient	
+
+
+SKILLS
+Programming: C/C++, Python, PL/SQL, MEL, Assembly Language 
+Web Technologies: XHTML/HTML5, CSS/CSS3, PHP, JavaScript, jQuery, AJAX, JSON, MySql, ActionScript, Flash
+OS: Linux, Mac OS, Windows
+Tools: Perforce (P4), Sandbox, GVim, OpenGL, Houdini, Maya, Photoshop, After Effects, Premiere, Final Cut, MS Office, Proprietary Wiki
+
+
+AFFILIATIONS
+Student Volunteer, Siggraph Conference 2010
+*Demonstrated technology gadgets at the Emerging Technology showroom
+Poster Participant, Evaluating Performance in Immersive Display, Summer 2010
+*Siggraph 2010 – Los Angeles, California USA	
+
+President, Eta Kappa Nu (HKN) – Electrical Engineering Honor Society, Spring 2006
+University of Texas Chapter	 
+*Managed 8 officers in performing their duties & presided over chapter meetings with more than 60 students.
+*Acted as a liaison to the ECE department, university, and corporate representatives.
+
